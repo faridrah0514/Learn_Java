@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Puppy",
+            "request": "launch",
+            "mainClass": "Puppy"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyFirstProgram",
+            "request": "launch",
+            "mainClass": "MyFirstProgram"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - belajar",
+            "request": "launch",
+            "mainClass": "belajar"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - learn",
+            "request": "launch",
+            "mainClass": "learn"
+        }
+    ]
+}
